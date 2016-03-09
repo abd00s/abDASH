@@ -6,4 +6,4 @@ gem 'dashing'
 gem 'twitter', '>= 5.9.0'
 
 gem 'mechanize'
-gem "watir", "~>4.0"
+gem "watir-webdriver"
